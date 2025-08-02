@@ -1,4 +1,4 @@
-# Databricks-Multi-Class-Classification-Project
+# Databricks-Pengiuns-Multi-Class-Classification-Project
 Databricks Link: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3877142277929131/944567150356801/8113942663893140/latest.html
 
 This project focuses on building and evaluating a multi-class classification model using Databricks, leveraging its powerful tools for data preparation, model building, and MLOps (Machine Learning Operations) with MLflow and Hyperopt.
